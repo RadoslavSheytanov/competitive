@@ -18,7 +18,7 @@ While this repository is primarily for my personal use, I welcome constructive f
 
 ## Contact
 
-If you have any questions or would like to reach out to me directly, please feel free to do so at [radoslav@programmer.net].
+If you have any questions or would like to reach out to me directly, please feel free to do so at [my email][radoslav@programmer.net].
 
 ---
 **Note**: This repository is for educational purposes only. The solutions provided are the outcomes of my own study and understanding of the subject matter. Please adhere to your institution's academic integrity policies when referencing or using this material.
