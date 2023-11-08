@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to my repository of university homework solutions and competitive programming problem resolutions. This repository serves as a public archive of my personal academic and competitive programming journey, showcasing the work I have completed throughout my university courses and various programming contests.
+Welcome to my repository of university homework solutions and competitive programming problem resolutions. This repository serves as a public archive of my personal academic and competitive programming journey which started in the late 2021, showcasing the work I have completed throughout my university courses and various programming contests.
 
 ## Purpose
 
