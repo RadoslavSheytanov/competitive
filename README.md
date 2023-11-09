@@ -1,16 +1,16 @@
-# University Homeworks & Competitive Programming Solutions
+# University Homework
 
 ## Introduction
 
-Welcome to my repository of university homework solutions and competitive programming problem resolutions. This repository serves as a public archive of my personal academic and competitive programming journey which started in the late 2021, showcasing the work I have completed throughout my university courses and various programming contests.
+Welcome to my repository of university homework solutions. This repository serves as a public archive of my personal academic journey which started in the late 2021, showcasing the work I have completed throughout my university courses.
 
 ## Purpose
 
-The primary purpose of this repository is to document and share my progress and solutions in the realm of academic assignments and competitive programming. It is intended to act as a reflective space for personal growth while providing insights for those interested in similar problem-solving pathways.
+The primary purpose of this repository is to document and share my progress and solutions in the realm of academic assignments. It is intended to act as a reflective space for personal growth while providing insights for those interested in similar problem-solving pathways.
 
 ## Usage
 
-The contents of this repository are organized by course and contest. Each individual solution is accompanied by a detailed explanation of the approach taken. To use this repository, you can navigate through the directories to find specific problems, or use the search function to look for particular concepts or problem types.
+The contents of this repository are organized by course and contest. To use this repository, you can navigate through the directories to find specific problems, or use the search function to look for particular concepts or problem types.
 
 ## Contributions
 
