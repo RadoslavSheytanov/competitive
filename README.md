@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to my repository of university homework solutions. This repository serves as a public archive of my personal academic journey which started in the late 2021, showcasing the work I have completed throughout my university courses.
+Welcome to my repository of university homework solutions. This repository serves as a public archive of my personal academic journey at [Software University](https://softuni.bg) which started in the late 2021, showcasing the work I have completed throughout my university courses.
 
 ## Purpose
 
